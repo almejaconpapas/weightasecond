@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{bde1b1cb-f30f-316c-72ca-4ab58190b9dd}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AimingRig", "AimingRig.csproj", "{607a75a0-08b8-9371-cf83-d2354dbd0574}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.InputSystem.Samples.UIvsGameInput", "UnityEngine.InputSystem.Samples.UIvsGameInput.csproj", "{b1af83f8-c3c7-7912-a735-6a1c3490aa83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{bde1b1cb-f30f-316c-72ca-4ab58190b9dd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{bde1b1cb-f30f-316c-72ca-4ab58190b9dd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607a75a0-08b8-9371-cf83-d2354dbd0574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607a75a0-08b8-9371-cf83-d2354dbd0574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b1af83f8-c3c7-7912-a735-6a1c3490aa83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b1af83f8-c3c7-7912-a735-6a1c3490aa83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
